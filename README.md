@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 # README 👋
 
 
-![AaronChuang's github stats](https://github-readme-stats.vercel.app/api?username=AaronChuang&show_icons=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronChuang&layout=compact))
+![AaronChuang's github stats](https://github-readme-stats.vercel.app/api?username=AaronChuang&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronChuang&layout=compact)
 ![AaronChuang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AaronChuang&layout=compact)
